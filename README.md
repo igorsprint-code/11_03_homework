@@ -10,7 +10,7 @@
 
 ### Решение
 
-![screen](screenshots/image.png)
+![screen](screenshots/1.jpg)
 
 ---
 
