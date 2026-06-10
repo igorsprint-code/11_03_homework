@@ -22,7 +22,7 @@
 
 ### Решение
 
-![screen](screenshots/image.png)
+![screen](screenshots/2.jpg)
 
 ---
 
