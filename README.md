@@ -46,7 +46,7 @@
 
 ### Решение
 
-![screen](screenshots/image.png)
+![screen](screenshots/4.jpg)
 
 
 ## Дополнительные задания (со звёздочкой*)
