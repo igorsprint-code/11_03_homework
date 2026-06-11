@@ -34,7 +34,7 @@
 
 ### Решение
 
-![screen](screenshots/image.png)
+![screen](screenshots/3.jpg)
 
 ---
 
